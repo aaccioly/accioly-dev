@@ -104,7 +104,7 @@ params:
 
             - **🌐 [https://7rtc.com](https://7rtc.com)**
             
-            - I also plan to do something with my company's domain one day: 
+            - I also plan to do something with my company's domain one day. 
 
             - But for now it's website is redirecting to LinkedIn 🙈.
 
@@ -137,7 +137,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/aaccioly/accioly-dev/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
