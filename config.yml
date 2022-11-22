@@ -93,9 +93,9 @@ params:
             - **🌐 [https://a.accioly.7rtc.com](https://a.accioly.7rtc.com)**
 
             - My old blog in Brazilian Portuguese.
-            
+
             - It has one of those old school Google Translator widgets!
-            
+
             - The automatic translation isn't really any good. But...
 
             - You know, 2000's technology is brilliant!
@@ -103,8 +103,8 @@ params:
             -
 
             - **🌐 [https://7rtc.com](https://7rtc.com)**
-            
-            - I also plan to do something with my company's domain one day. 
+
+            - I also plan to do something with my company's domain one day.
 
             - But for now it's website is redirecting to LinkedIn 🙈.
 
@@ -117,8 +117,8 @@ params:
           url: "https://github.com/aaccioly"
         - name: linkedin
           url: "https://www.linkedin.com/in/aaccioly"
-        - name: twitter
-          url: "https://twitter.com/AnthonyAccioly"
+        - name: mastodon
+          url: "https://mastodon.accioly.dev/@anthony"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/664577/anthony-accioly"
         - name: RsS
