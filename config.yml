@@ -1,6 +1,5 @@
 baseURL: "https://accioly.dev/"
 title: Anthony Accioly
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -10,6 +9,9 @@ buildExpired: false
 pygmentsUseClasses: true
 
 googleAnalytics: G-XJ49WZ8741
+
+pagination:
+    pagerSize: 5
 
 minify:
     disableXML: true
