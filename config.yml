@@ -123,6 +123,8 @@ params:
           url: "https://www.linkedin.com/in/aaccioly"
         - name: mastodon
           url: "https://accioly.social/@anthony"
+        - name: signal
+          url: "https://signal.me/#eu/cDGXbPN8BUyAyyhJ4LjhTxdftVPixKjvZ-IDdrN-QhTrPYC3lotILLNJE8RKlHom"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/664577/anthony-accioly"
         - name: rss
