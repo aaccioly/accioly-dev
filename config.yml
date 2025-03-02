@@ -117,13 +117,15 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/aaccioly"
+        - name: keybase
+          url: "https://keybase.io/aaccioly"
         - name: linkedin
           url: "https://www.linkedin.com/in/aaccioly"
         - name: mastodon
           url: "https://accioly.social/@anthony"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/664577/anthony-accioly"
-        - name: RsS
+        - name: rss
           url: "index.xml"
     # analytics:
     #     google:
