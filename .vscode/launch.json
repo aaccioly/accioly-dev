@@ -1,0 +1,16 @@
+{
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch Hugo Server",
+        "runtimeExecutable": "hugo",
+        "args": [
+          "server",
+          "--buildDrafts",
+          "--openBrowser"
+        ],
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
