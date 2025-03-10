@@ -119,6 +119,8 @@ params:
           url: "https://github.com/aaccioly"
         - name: keybase
           url: "https://keybase.io/aaccioly"
+        - name: keyoxide
+          url: "https://keyoxide.org/1bbdc23d1853255d6415d2ec814edf851aab370e"
         - name: linkedin
           url: "https://www.linkedin.com/in/aaccioly"
         - name: mastodon
