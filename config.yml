@@ -82,37 +82,25 @@ params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: >
-            Welcome to my blog
+          Welcome to my blog!
 
-            - It's still under construction, but I do have big plans for it!
+          - It's still a work in progress. Maybe one day, it will be more than just a glorified Linktree 🙈.
 
-            -
+          -
 
-            - If you want something to read right now, check out:
+          - **🌐 [https://a.accioly.7rtc.com](https://a.accioly.7rtc.com)**
 
-            -
+          - My old blog in Brazilian Portuguese.
 
-            - **🌐 [https://a.accioly.7rtc.com](https://a.accioly.7rtc.com)**
+          - It even has one of those old-school Google Translator widgets!
 
-            - My old blog in Brazilian Portuguese.
+          - The automatic translation isn’t great, but…
 
-            - It has one of those old school Google Translator widgets!
+          - You know, 2000s technology is brilliant!
 
-            - The automatic translation isn't really any good. But...
+          -
 
-            - You know, 2000's technology is brilliant!
-
-            -
-
-            - **🌐 [https://7rtc.com](https://7rtc.com)**
-
-            - I also plan to do something with my company's domain one day.
-
-            - But for now it's website is redirecting to LinkedIn 🙈.
-
-            -
-
-            - Finally, feel free to follow me on:
+          - If you’re looking for something more up-to-date, check out my Mastodon or Nostr profiles below.
 
     socialIcons:
         - name: github
