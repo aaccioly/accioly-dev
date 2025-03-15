@@ -117,6 +117,8 @@ params:
           url: "https://accioly.social/@anthony"
         - name: nostr
           url: "https://nosotros.app/nprofile1qyf8wumn8ghj7am0wsh82arcduhx7mn9qys8wumn8ghj76rpwejkutnpvd3kjmmv0yh8xmmrd9skctmfde3x77qprfmhxue69uhhg6r9vehhyetnwshxummnw3erztnrdakszxnhwden5te0dpshvetw9eskxcmfdak8jtnnda3kjctvqqswa8vhnelpgx9f7arjhtuzmjtqs2sdgfgmw77tzu9xankf87kl7eqrs2tax"
+        - name: pgpkey
+          url: "https://openpgpkey.accioly.dev/"
         - name: signal
           url: "https://signal.me/#eu/cDGXbPN8BUyAyyhJ4LjhTxdftVPixKjvZ-IDdrN-QhTrPYC3lotILLNJE8RKlHom"
         - name: stackoverflow
