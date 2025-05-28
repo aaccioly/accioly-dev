@@ -109,8 +109,6 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/aaccioly"
-        - name: keybase
-          url: "https://keybase.io/aaccioly"
         - name: linkedin
           url: "https://www.linkedin.com/in/aaccioly"
         - name: mastodon
