@@ -84,27 +84,24 @@ params:
         Content: >
           Welcome to my blog!
 
-          - It's still a work in progress. Maybe one day it will be more than just a glorified Linktree 🙈.
 
-          -
+          It's still a work in progress. Maybe one day it will be more than just a glorified Linktree 🙈.
 
-          - Do you want to read some ancient posts?
 
-          -
+          Do you want to read some ancient posts?
 
-          - **🌐 [https://a.accioly.7rtc.com](https://a.accioly.7rtc.com)**
+          **🌐 [https://a.accioly.7rtc.com](https://a.accioly.7rtc.com)**\
 
-          - My old blog in Brazilian Portuguese.
+          This is my old blog in Brazilian Portuguese.\
 
-          - It even has one of those old-school Google Translator widgets!
+          It even has one of those old-school Google Translator widgets!\
 
-          - The automatic translation isn’t great, but…
+          The automatic translation isn’t great, but…\
 
-          - You know, 2000s technology is brilliant!
+          You know, 2000s technology is brilliant!
 
-          -
 
-          - If you’re looking for something more up-to-date, check out my Mastodon or Nostr profiles below.
+          If you’re looking for something more up-to-date, check out my Mastodon profile below.
 
     socialIcons:
         - name: github
