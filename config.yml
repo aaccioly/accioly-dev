@@ -110,6 +110,8 @@ params:
           url: "https://www.linkedin.com/in/aaccioly"
         - name: mastodon
           url: "https://accioly.social/@anthony"
+        - name: orcid
+          url: "https://orcid.org/0009-0007-6170-4860"
         - name: pgpkey
           url: "https://openpgpkey.accioly.dev/"
         - name: signal
